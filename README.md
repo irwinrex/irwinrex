@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
-- 🌱 I’m currently learning **Chat App**
+- 🌱 I’m currently learning **Django**
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [https://irwinrex.github.io/portfolio/assets/Irwin.pdf](https://irwinrex.github.io/portfolio/assets/Irwin.pdf)
 
-- ⚡ Fun fact **Learn Little by Little**
+- ⚡ Fun fact **Be Humble**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
