@@ -6,19 +6,19 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&locale=en" alt="irwinrex" /></p>
 
-- 🔭 I’m currently working on [Kubernetes](https://github.com/irwinrex/kubernetes)
+- 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Chat App**
 
 - 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
 
-- 🤝 I’m looking for help with [Django](https://github.com/irwinrex/django)
+- 🤝 I’m looking for help with [Django](https://github.com/irwinrex/python)
 
-- 👨‍💻 All of my projects are available at [https://github.com/irwinrex/portfolio](https://github.com/irwinrex/portfolio)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/irwinrex?tab=repositories)
 
-- 📝 I regularly write articles on [I don't](I don't)
+- 📝 I regularly write articles on (I don't)
 
-- 💬 Ask me about **Docker,Jenkins,Terraform, GithubActions**
+- 💬 Ask me about **Docker, Jenkins, Terraform, GithubActions, Kubernetes, AWS, Linux**
 
 - 📫 How to reach me **irwinrex.a@gmail.com**
 
