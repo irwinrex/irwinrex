@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/kubernetes/kubernetes)
+- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/irwinrex/Bang-chatapp)
 
 - 🤝 I’m looking for help with [Django](https://github.com/irwinrex/python)
 
