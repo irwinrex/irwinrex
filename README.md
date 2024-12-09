@@ -6,7 +6,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&locale=en" alt="irwinrex" /></p>
 
-- - - - - - [W E B S I T E](https://irwinrex.github.io/portfolio/) - - - - - - 
+- [W E B S I T E](https://irwinrex.github.io/portfolio/)
 
 - 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
