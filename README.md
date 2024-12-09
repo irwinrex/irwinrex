@@ -6,13 +6,15 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&locale=en" alt="irwinrex" /></p>
 
+- - - - - - [W E B S I T E](https://irwinrex.github.io/portfolio/) - - - - - - 
+
 - 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
 - 🌱 I’m currently learning **Python**
 
-- 👯 I’m looking to collaborate on [Kubernetes](https://github.com/irwinrex/Bang-chatapp)
+- 👯 I’m looking to collaborate on [BAnG!](https://github.com/irwinrex/Bang-chatapp)
 
-- 🤝 I’m looking for help with [Django](https://github.com/irwinrex/python)
+- 🤝 I’m looking for help with [TERRAFORM](https://github.com/irwinrex/terraform)
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/irwinrex?tab=repositories)
 
