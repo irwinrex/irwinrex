@@ -10,15 +10,11 @@
 
 - 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
 
-- 🌱 I’m currently learning **Python**
-
-- 👯 I’m looking to collaborate on [BAnG!](https://github.com/irwinrex/Bang-chatapp)
+- 🌱 I’m currently learning **Go**
 
 - 🤝 I’m looking for help with [TERRAFORM](https://github.com/irwinrex/terraform)
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/irwinrex?tab=repositories)
-
-- 📝 I regularly write articles on (I don't)
 
 - 💬 Ask me about **Docker, Jenkins, Terraform, GithubActions, Kubernetes, AWS, Linux**
 
@@ -26,7 +22,7 @@
 
 - 📄 Know about my experiences [https://irwinrex.github.io/portfolio/assets/Irwin.pdf](https://irwinrex.github.io/portfolio/assets/Irwin.pdf)
 
-- ⚡ Fun fact **Be Humble**
+- ⚡ **Being Human**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
