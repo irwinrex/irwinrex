@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Irwin Rex</h1>
-<h3 align="center">I'm a passionate DevOps Engineer with a strong focus on automating</h3>
+<h3 align="center">I'm a DevOps Engineer. If I can means you can too</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irwinrex&label=Profile%20views&color=0e75b6&style=flat" alt="irwinrex" /> </p>
 
