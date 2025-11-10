@@ -8,15 +8,13 @@
 
 - [W E B S I T E](https://irwinrex.github.io/portfolio/)
 
-- 🔭 I’m currently working on [Bang!](https://github.com/irwinrex/Bang-chatapp)
+- 🔭 I’m currently working on [Go Web Application !]([https://github.com/irwinrex/Bang-chatapp](https://github.com/irwinrex/top-gun.git))
 
 - 🌱 I’m currently learning **Go**
 
-- 🤝 I’m looking for help with [TERRAFORM](https://github.com/irwinrex/terraform)
-
 - 👨‍💻 All of my projects are available at [Here](https://github.com/irwinrex?tab=repositories)
 
-- 💬 Ask me about **Docker, Jenkins, Terraform, GithubActions, Kubernetes, AWS, Linux**
+- 💬 Ask me about **Linux, Docker, Jenkins, Terraform, GithubActions, Kubernetes, AWS**
 
 - 📫 How to reach me **irwinrex.a@gmail.com**
 
