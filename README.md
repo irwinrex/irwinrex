@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Irwin Rex</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Roles" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=555555&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=0E75B6&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
 </p>
 
 <p align="center">
@@ -48,24 +48,6 @@
 
 ### 📊 GitHub Stats
 
-<!-- <table border="0" align="center">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=1" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=tokyonight&hide_border=true&v=1" />
-    </td>
-  </tr>
-</table> -->
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwinrex&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://linkedin.com/in/irwinrex"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.hackerrank.com/irwinrex_a"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
