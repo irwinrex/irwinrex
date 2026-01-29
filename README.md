@@ -43,7 +43,7 @@
 
 ### 📊 GitHub Stats
 
-<table border="0" align="center">
+<!-- <table border="0" align="center">
   <tr>
     <td>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&v=1" />
@@ -52,7 +52,7 @@
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=tokyonight&hide_border=true&v=1" />
     </td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwinrex&theme=tokyonight&hide_border=true&v=1" alt="GitHub Streak" />
@@ -60,15 +60,7 @@
 
 ---
 
-### 🏆 Trophies
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=irwinrex&theme=tokyonight&column=7&no-bg=true&v=1" alt="Trophies" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/irwinrex"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/22076320"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
   <a href="https://www.hackerrank.com/irwinrex_a"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
