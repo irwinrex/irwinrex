@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=0E75B6&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
+  <img src="https://img.shields.io/badge/keep%20calm%20and%20orchestrate-0E75B6?style=flat-square&logoColor=white" alt="Quote" />
 </p>
 
 <p align="center">
@@ -17,10 +17,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=irwinrex&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irwinrex&label=Profile%20views&color=0e75b6&style=flat-square" alt="irwinrex" />
 </p>
 
 ---
