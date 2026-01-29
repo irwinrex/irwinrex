@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Irwin Rex</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Roles" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=0E75B6&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=555555&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
 </p>
 
 <p align="center">
-  <a href="https://irwinrex.github.io/portfolio/">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/irwinrex">🔗 LinkedIn</a> •
-  <a href="mailto:irwinrex.a@gmail.com">📫 Contact</a> •
-  <a href="https://irwinrex.github.io/portfolio/assets/Irwin.pdf">📄 Resume</a>
+  <a href="https://irwinrex.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/irwinrex"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://irwinrex.github.io/portfolio/assets/Irwin.pdf"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+  <a href="mailto:irwinrex.a@gmail.com"><img src="https://img.shields.io/badge/Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irwinrex&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Views" />
 </p>
 
 <p align="center">
