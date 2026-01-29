@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Irwin Rex</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0E75B6&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=555555&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"keep calm and orchestrate"</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=0&color=0E75B6&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
 </p>
 
 <p align="center">
