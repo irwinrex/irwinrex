@@ -1,15 +1,15 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Irwin+Rex;Cloud+Architecture;System+Design;Plumber+for+CI/CD;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Irwin+Rex;DevOps+Engineer;Software+Engineer;System+Design;Cloud+Architecture" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=555555&center=true&vCenter=true&width=400&lines=keep+calm+and+rule" alt="Quote SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=2000&color=555555&center=true&vCenter=true&width=400&lines=keep+calm+and+orchestrate" alt="Quote SVG" />
 </p>
 
 <p align="center">
-  <a href="https://irwinrex.github.io/portfolio/">🌐 Portfolio</a> •
-  <a href="https://linkedin.com/in/irwinrex">🔗 LinkedIn</a> •
-  <a href="https://irwinrex.github.io/portfolio/assets/Irwin.pdf">📄 Resume</a> •
+  <a href="https://irwinrex.github.io/portfolio/">🌐 Portfolio</a> • 
+  <a href="https://linkedin.com/in/irwinrex">🔗 LinkedIn</a> • 
+  <a href="https://irwinrex.github.io/portfolio/assets/Irwin.pdf">📄 Resume</a> • 
   <a href="mailto:irwinrex.a@gmail.com">📫 Email</a>
 </p>
 
@@ -40,23 +40,17 @@
 
 ### 📊 GitHub Metrics
 
-<table align="center" border="0">
-  <tr>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" />
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irwinrex&theme=tokyonight&column=7&no-bg=true" alt="Trophies" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwinrex&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=irwinrex&theme=tokyonight&column=7&no-bg=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwinrex&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
