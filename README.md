@@ -1,72 +1,77 @@
-# Hi 👋, I'm Irwin Rex  
-**DevOps Engineer | Cloud Architecture | System Design | CI/CD Specialist**
-
-> *"Keep calm and rule"*
-
----
-
-## 📌 Quick Links  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=white)](https://irwinrex.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irwinrex)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://irwinrex.github.io/portfolio/assets/Irwin.pdf)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:irwinrex.a@gmail.com)
-
----
-
-## 🚀 About Me  
-
-- 🔭 **Currently working on:** [Top Gun / Bang Chatapp](https://github.com/irwinrex/top-gun) – Go web application  
-- 🌱 **Learning:** Advanced **Go (Golang)** for scalable backend systems  
-- 💬 **Ask me about:** AWS, Kubernetes, Docker, Terraform, Jenkins, Linux  
-- ⚡ **Philosophy:** Being human first  
-- 🎯 **Goal:** Building resilient, scalable, and automated cloud-native systems  
-
----
-
-## 🛠️ Tech Stack  
-
-### **Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### **Languages & OS**  
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 GitHub Stats  
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Irwin+Rex;Cloud+Architecture;System+Design;Plumber+for+CI/CD;DevOps+Engineer" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=2000&color=555555&center=true&vCenter=true&width=400&lines=keep+calm+and+rule" alt="Quote SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irwinrex&theme=flat&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+  <a href="https://irwinrex.github.io/portfolio/"><b>Portfolio</b></a> •
+  <a href="https://linkedin.com/in/irwinrex"><b>LinkedIn</b></a> •
+  <a href="https://irwinrex.github.io/portfolio/assets/Irwin.pdf"><b>Resume</b></a> •
+  <a href="mailto:irwinrex.a@gmail.com"><b>Email</b></a>
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=irwinrex&label=Profile%20views&color=0e75b6&style=flat-square" alt="irwinrex" />
+</p>
+
+---
+
+### 🚀 At a Glance
+
+- 🔭 **In Progress:** [Top Gun / Bang Chatapp](https://github.com/irwinrex/top-gun) (Go Web App)
+- 🌱 **Leveling Up:** Mastering **Go (Golang)** for high-performance systems.
+- 💬 **Expertise:** `AWS`, `Kubernetes`, `Docker`, `Terraform`, `Jenkins`, `Linux`.
+- ⚡ **Vibe:** Being human first.
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,jenkins,githubactions,linux,bash,py,go,git,github" />
+</p>
+
+---
+
+### 📈 Activity & Stats
+
+<p align="center">
+  <!-- Activity Graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=irwinrex&theme=github-light&bg_color=ffffff&hide_border=true&color=0e75b6" />
+</p>
+
+<p align="center">
+  <!-- GitHub Stats Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irwinrex&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  <!-- Language Card -->
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irwinrex&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=irwinrex&theme=flat&column=7&no-bg=true&no-frame=true&margin-w=15" alt="Trophies" />
+</p>
+
+<p align="center">
+  <!-- Streak Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=irwinrex&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irwinrex)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22076320)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/irwinrex_a)
+### 🐍 Contribution Journey
+<p align="center">
+  <!-- This is an animation that "eats" your contributions -->
+  <img src="https://raw.githubusercontent.com/irwinrex/irwinrex/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=irwinrex&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile views" />
+  <a href="https://linkedin.com/in/irwinrex"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/users/22076320"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/irwinrex_a"><img src="https://img.shields.io/badge/Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 </p>
