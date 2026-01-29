@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/keep%20calm%20and%20orchestrate-0E75B6?style=flat-square&logoColor=white" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=1000&color=0E75B6&center=true&vCenter=true&width=435&lines=keep+calm+and+orchestrate" alt="Quote" />
 </p>
 
 <p align="center">
